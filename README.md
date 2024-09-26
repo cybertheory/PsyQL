@@ -1,10 +1,8 @@
-# AI-Driven Database
+# PsyQL
 
 An extensible, event-driven wrapper over PostgreSQL with integrated AI capabilities for enhanced database design, querying, and maintenance.
 
 ## Architecture
-
-![AI-Driven Database Architecture](https://your-repo-url.com/architecture-diagram.png)
 
 ```mermaid
 graph TD
